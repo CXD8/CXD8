@@ -3,7 +3,7 @@
 #
 ### 🧐 I mainly work with hardware and PCBs including embedded systems, single-board computers, RF hardware, with networking and software on the side. I’m also currently exploring AI workflows/automations.
 #
-### 🚀 Most Notable Projects
+### 😄 Most Notable Projects
 | Project | PCB CAD | Chips / Hardware | Description |
 | :--- | :--- | :--- | :--- |
 | **[CXD-ROUTER](https://github.com/CXD8/CXD-ROUTER)** | ![KiCad](https://img.shields.io/badge/%20-314CB0?style=flat-square&logo=kicad&logoColor=white) | ![Rockchip](https://img.shields.io/badge/Rockchip-0277BD?style=flat-square) ![AsiaRF](https://img.shields.io/badge/AsiaRF-00838F?style=flat-square) | CXD-ROUTER is a high-speed, modular router built on a Rockchip RK3588 SoC, powered by USB-C PD. The SoC features a NPU with 6 TOPS, it can serve AI applications such as NGFW's, AI surveillance and more |
