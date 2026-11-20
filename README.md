@@ -2,7 +2,7 @@
 ### 😮 I like to build things are the useful.  
 #
 ### 🧐 I mainly work with hardware and PCBs including embedded systems, single-board computers, RF hardware, with networking and software on the side. 
-# 🔭 On the side i'm exploring AI workflows/automations and software that aims to enhance my own work.
+### 🔭 On the side i'm exploring AI workflows/automations and software that aims to enhance my own work.
 #
 ### 😄 Most Notable Projects
 | Project | PCB CAD | Chips / Hardware | Description |
